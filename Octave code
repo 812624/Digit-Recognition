@@ -1,0 +1,7 @@
+This file contains Implementation of Digit recognition system using first principle.
+Implemented Digit recognition on MNIST dataset.
+
+## Acknowledgement :
+This is a menu based application, where you can first train the model using Backpropagation Algorithm, then can further test your own images taken on real time through your webcam, or can detect number image.
+It is 2 layer Neural Network, having 100 hidden units and 10(0 through 9) labels as the output.
+mnist.m file has the driver code.
